@@ -1,0 +1,17 @@
+{
+  "name": "socket-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "passport": "^0.4.0",
+    "sequelize": "^5.8.10",
+    "socket.io": "^2.2.0"
+  }
+}
